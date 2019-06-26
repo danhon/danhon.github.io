@@ -16,7 +16,7 @@ His personal twitter account is at [@hondanhon](https://twitter.com/@hondanhon/)
 ### Digital Transformation Consultant, State of California (2016 - current)
 Worked directly with the Secretary, California Health and Human Services Agency; Secretary, Government Operations Agency; state Chief Information Officer and director of the California Department of Technology; Director, California Department for Social Services; Director, Office for Systems Integration.
 
-Strategic direction: advised oversight and project management offices on the procurement, development and deployment of large-scale technology systems and legacy system modernization and replacement projects, application of product and service strategy
+Strategic direction: advised oversight and project management offices on the procurement, development and deployment of large-scale technology systems and legacy system modernization and replacement projects, application of product and service strategy.
 
 Digital services: worked with agencies and departments to enable iterative delivery of digital service products that meet user needs.
 
