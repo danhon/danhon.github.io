@@ -78,4 +78,4 @@ Creative Director on Nike, Sony, Coca-Cola and Kraft accounts.
 
 ## Other assets
 
-* [2470 pixel color headshot](/assets/images/danhon-headshot-2019-color-2470px.jpeg). 
+* [2470 pixel color headshot](/assets/images/danhon-headshot-2019-color-2470px.jpeg)
