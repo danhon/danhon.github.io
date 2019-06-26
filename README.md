@@ -1,12 +1,12 @@
 # About Dan
 
-Dan Hon is an expert on technology and its role in society. Moat recently, his work in transforming government and digital services is the subject of a Harvard Kennedy School case study. A keynote speaker on government digital services and the role of technology in society, his writing has also been published in Wired Magazine and the MIT Technology Review. 
+Dan Hon is an expert on technology and its role in society. His recent work in transforming government and digital services is the subject of a Harvard Kennedy School case study. A keynote speaker on government digital services and the role of technology in society, his writing has also been published in Wired Magazine and the MIT Technology Review. 
 
 His personal twitter account is at [@hondanhon](https://twitter.com/@hondanhon/) and he can be contacted at [dan@verylittlegravitas.com](mailto:dan@verylittlegravitas.com]). 
 
 ## Highlights
 * Co-Chair of the Code for America Summit, bringing together civic technologists, public employees and technology companies to make government work in a digital age ([2019](https://www.youtube.com/playlist?list=PL65XgbSILalUkMOjuufa1RWofJ-dFPK6q), [2018](https://www.youtube.com/playlist?list=PL65XgbSILalU3CPOpBOzBiX-31rzk8oox))
-* Spearheaded the creation of the State of California’s first digital service, the Child Welfare Digital Service, now the subject of a Harvard Kennedy School case study
+* Led the creation of the State of California’s first digital service, the Child Welfare Digital Service, now the subject of a Harvard Kennedy School case study
 * Keynote speaker, published writer on technology, design, government and ethics (MIT Technology Review, Wired, Web Directions)
 * Co-founded [Six to Start](https://www.sixtostart.com/), a digital game design and storytelling company that won Best Experimental and Best of Show (2009) and Best Game (2010) awards at SXSW.
 * BA Law (Cambridge University), MSc. Software Engineering (University of Liverpool)
