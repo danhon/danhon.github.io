@@ -147,7 +147,7 @@ That’s Tony.
 
 I have another example:
 
-<video controls>
+<video controls style="object-fit: contain">
   <source src="mp4/lexi_unix_system.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
