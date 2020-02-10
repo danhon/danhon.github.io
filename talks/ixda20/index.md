@@ -22,8 +22,10 @@ So this is mainly a joke about tea.
 
 This is Captain Jean-Luc Picard. He’s the captain of a starship in the 24th century. It has a very sophisticated computer that you can talk to. From what we can tell, he mainly uses his ship computer to do this:
 
-
-![Alt Text](mp4/tea_earl_grey_picard.mp4 "Title Text:")
+<video width="640" height="480" controls>
+  <source src="mp4/tea_earl_grey_picard.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 Thank you, Captain Picard.
 
@@ -145,7 +147,11 @@ That’s Tony.
 
 I have another example:
 
-![Alt Text](mp4/lexi_unix_system.mp4 "Title Text:")
+<video width="640" height="480" controls>
+  <source src="mp4/lexi_unix_system.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 
 That was Lexi, one of my favorite fictional computer science heroes. 
 
@@ -161,7 +167,10 @@ OK, last part coming up:
 
 This is about how interfaces and interaction in science fiction is used to create understanding with another person, separate from what those people do. It’s science fiction that shows a little of _what it is like to be another person_. 
 
-![Alt Text](mp4/terminator_experience.mp4 "Title Text:")
+<video width="640" height="290" controls>
+  <source src="mp4/terminator_experience.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 What we’re looking at here is a representation of the internal state of the Terminator, an artificially intelligent killing machine from the 1984 movie. This obviously isn’t what the Terminator experiences. At best, it’s a debug mode. What we’re seeing is an interface for humans, that helps us understand the Terminator’s internal state, but we never see _how_ we might access it. 
 
@@ -223,7 +232,10 @@ Or this famous scene from 2001:
 
 Sometimes, the easy flow is subverted in pop culture, but not often:
 
-![Alt Text](mp4/tomato_soup.mp4 "Title Text:")
+<video width="600" height="480" controls>
+  <source src="mp4/tomato_soup.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 This guy is just a junior lieutenant. Nowhere near a captain. Look how difficult his experience is. Which leads me on to…
 
@@ -333,7 +345,10 @@ In this last example, I will be absolutely bloody-mindedly stupid to try to prov
 
 Here's a Microsoft future vision video about productivity and collaboration. Look out for the part where the teacher shares something on their screen with a student:
 
-![Alt Text](mp4/microsoft_vision.mp4 "Title Text:")
+<video width="1920" height="750" controls>
+  <source src="mp4/microsoft_vision.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 See it? Now, fair warning. I am going to be very dumb now, on purpose.
 
