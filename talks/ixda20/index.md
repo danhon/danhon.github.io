@@ -147,11 +147,10 @@ That’s Tony.
 
 I have another example:
 
-<video width="640" height="480" controls>
+<video controls>
   <source src="mp4/lexi_unix_system.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-
 
 That was Lexi, one of my favorite fictional computer science heroes. 
 
