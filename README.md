@@ -81,10 +81,12 @@ Creative Director on Nike, Sony, Coca-Cola and Kraft accounts.
 
 ## References on request
 
-* Marybel Batjer, Secretary, Government Operations Agency, State of California
-* Mike Bracken, former Executive Director, U.K. Government Digital Service
-* Tom Loosemore, former Deputy Director, U.K. Government Digital Service
-* Jennifer Pahlka, Executive Director, Code for America 
+### Government references
+
+* Marybel Batjer, President, California Public Utilities Commission; Secretary, Government Operations Agency, State of California
+* Mike Bracken, Partner, public.digital; former Executive Director, U.K. Government Digital Service
+* Tom Loosemore, public.digital, former Deputy Director, U.K. Government Digital Service
+* Jennifer Pahlka, Founder, Code for America 
 * Michael Wilkening, Special Advisor on Innovation and Digital Services in the Office of the Governor, State of California
 
 ## Other assets
