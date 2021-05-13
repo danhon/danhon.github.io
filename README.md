@@ -9,7 +9,7 @@ Dan tweets at [@hondanhon](https://twitter.com/@hondanhon/) and can be contacted
 
 
 ### Short affiliation
-Dan Hon is principal and founder at Very Little Gravitas, a digital strategy consultancy and former Editorial Director at Code for America.
+Dan Hon is Principal and founder at Very Little Gravitas, a digital strategy consultancy, and former Editorial Director at Code for America.
 
 ___
 
