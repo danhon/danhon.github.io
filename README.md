@@ -1,24 +1,40 @@
 # About Dan
+_Last updated May 13, 2021_
 
-Dan Hon is an expert on technology and its role in society. Most recently, he has been doing groundbreaking work transforming government and digital services, the subject of a Harvard Kennedy School case study. 
+Dan Hon is an expert on technology and its role in society. Most recently, he has been doing groundbreaking work transforming government and digital services. 
 
-He is a keynote speaker on government digital services and the role of technology in society, and you can find his writing in the MIT Technology Review and Wired Magazine. 
+Dan is a keynote speaker on government digital services and technology in society. His writing has been published in the MIT Technology Review and Wired Magazine. 
 
-His tweets at [@hondanhon](https://twitter.com/@hondanhon/) and can be contacted at [dan@verylittlegravitas.com](mailto:dan@verylittlegravitas.com]). 
+Dan tweets at [@hondanhon](https://twitter.com/@hondanhon/) and can be contacted at [dan@verylittlegravitas.com](mailto:dan@verylittlegravitas.com]). 
 
-_Last updated May 13, 2020_
+
+### Short affiliation
+Dan Hon is principal and founder at Very Little Gravitas, a digital strategy consultancy and former Editorial Director at Code for America.
+
+___
 
 ## Highlights
-* Co-Chair of the Code for America Summit, bringing together civic technologists, public employees and technology companies to make government work in a digital age ([2020](https://www.codeforamerica.org/summit/about), [2019](https://www.youtube.com/playlist?list=PL65XgbSILalUkMOjuufa1RWofJ-dFPK6q), [2018](https://www.youtube.com/playlist?list=PL65XgbSILalU3CPOpBOzBiX-31rzk8oox))
-* Led the creation of the State of California’s first digital service, the Child Welfare Digital Service, the subject of a Harvard Kennedy School case study
-* Keynote speaker, published writer on technology, design, government and ethics (MIT Technology Review, Wired, Web Directions)
+* Lead strategy consultant for [Vision 2023](https://vision2023.cdt.ca.gov), California's Statewide Strategic Technology Plan.
+* Led the creation of the State of California’s first digital service, the Child Welfare Digital Service, the subject of a Harvard Kennedy School case study.
+* Co-Chair of the Code for America Summit, bringing together civic technologists, public employees and technology companies to make government work in a digital age ([2020](https://www.codeforamerica.org/summit/about), [2019](https://www.youtube.com/playlist?list=PL65XgbSILalUkMOjuufa1RWofJ-dFPK6q), [2018](https://www.youtube.com/playlist?list=PL65XgbSILalU3CPOpBOzBiX-31rzk8oox)).
+* Keynote speaker, published writer on technology, design, government and ethics (MIT Technology Review, Wired, Web Directions).
 * Creative Director at Wieden + Kennedy for Nike, Facebook and Coca-Cola.
 * Co-founded [Six to Start](https://www.sixtostart.com/), a digital game design and storytelling company, winning Best Experimental and Best of Show (2009) and Best Game (2010) awards at SXSW.
-* BA Law (Cambridge University), MSc. Software Engineering (University of Liverpool)
+* BA Law (Cambridge University), MSc. Software Engineering (University of Liverpool).
 
+___
 ## Selected experience
 
-### Digital Transformation Consultant, Product Strategist, State of California (2016 - current)
+### Vision 2023: California's Statewide Technology Strategic Plan
+Lead strategy consultant for the California Department of Technology's [Vision 2023](https://vision2023.cdt.ca.gov), the state's three year technology strategic plan. 
+
+Worked directly with CDT's Chief Strategist, the State CIO and CDT Director, and the Deputy State CIO and CDT Chief Deputy Director.
+
+See also: 
+* [Vision 2023](https://vision2023.cdt.ca.gov/pdf/Vision-2023-California-Technology-Strategic-Plan.pdf) (PDF)
+* [Vision 2023 Research Findings and Insights](https://vision2023.cdt.ca.gov/pdf/Research-Findings-and-Insights.pdf) (PDF)
+
+### Digital Transformation Consultant, Product Strategist, State of California (2016 - 2020)
 Worked directly with the Secretary, California Health and Human Services Agency; Secretary, Government Operations Agency; state Chief Information Officer and director of the California Department of Technology; Director, California Department for Social Services; Director, Office for Systems Integration.
 
 Strategic direction: advised oversight and project management offices on the procurement, development and deployment of large-scale technology systems and legacy system modernization and replacement projects, application of product and service strategy.
@@ -42,17 +58,28 @@ Co-Creative Director for Facebook’s first global brand campaign. Worked closel
 
 Creative Director on Nike, Sony, Coca-Cola and Kraft accounts. 
 
-## Selected writing
+___
+
+## Selected writing and interviews
+
+### Writing
 
 - [Wristwatch heart monitors might save your life—and change medicine, too](https://www.technologyreview.com/s/612929/wristwatch-heart-monitors-might-save-your-lifeand-change-medicine-too/); in print as Your Heart On Your Sleeve. MIT Technology Review, March/April 2019. Topics: _emerging technology_, _healthcare_, _ethics_, _quantified self_.
 - [No one's coming, it's up to us](https://medium.com/@hondanhon/no-ones-coming-it-s-up-to-us-de8d9442d0d), January 2017, based on O'Reilly Foo Camp talk. Topics: _technology and society_.
 - [Google Can Buy Nest, But It Can’t Buy Our Trust](https://www.wired.com/2014/01/google-didnt-just-acquire-nest-annexed-whole-new-territory/), Wired.com, January 2014. Topics: ethics, technology.
 - [Fitness by design](https://www.domusweb.it/en/design/2012/11/28/fitness-by-design.html), Domus, November 2011. Topics:  _emerging technology_, _healthcare_, _ethics_, _quantified self_.
 
+
+### Interviews
+
+- [Why is it so hard to build government technology?](https://www.technologyreview.com/2021/03/17/1020811/better-tech-government-pandemic-united-states/), MIT Technology Review, March 2021. Topics: government, service design, digital services, technology procurement, COVID-19.
+
+___
+
 ## Selected speaking engagements
 
 ### Government digital services
-* Code for America Summit Co-Chair (2020, 2019, 2018)
+* Code for America Summit Co-Chair (2020, 2019, 2018) and advisor (2021)
 * Code for Canada Orientation Week: Guest Seminar (2018, 2017)
 * [Transforming Government Communication and Content](https://www.webdirections.org/transform16/speakers/dan-hon.html), Web Directions Transform, 2016
 
@@ -68,20 +95,29 @@ Creative Director on Nike, Sony, Coca-Cola and Kraft accounts.
 * Keynote speaker, How Interactive Design (2015, 2014)
 * [An Internet for Humans, Too](https://www.webdirections.org/blog/video-week-dan-hon/), Web Directions South, 2014
 
-## Awards
+### Selected talks
+
+* _Computer, Stop: Why Star Trek only goes so far and we need to try harder than science fiction_ at IXDA Interaction 20, [29.9MB PDF](/talks/ixd20/0205_Futures_15_Hon_VF_2.pdf)
+
+___
+
+## Awards, professional memberships and affiliations
+
+### Awards
 * SXSW Interactive Best Game (2010)
 * SXSW Interactive Best of Show (2009)
 * SXSW Interactive Best Experimental (2009)
 * Wired UK Wired 100 (2010)
 * The Webby Awards: Peoples' Voice, Corporate Social Responsibility, Best Use of Online Media (2012)
 
-## Professional memberships and affiliations
+### Professional memberships and affiliations
 
 * Juror, [Interaction Design Association Student Charette](http://sdc.ixda.org/), 2020
 * Juror, [Interaction Design Association Awards](http://awards.ixda.org/juror/2018-dan-hon/), 2018
 * Member, [British Academy of Film and Television Arts](http://www.bafta.org)
 * Former Fellow, Royal Society for the Arts, Manufactures and Commerce
 
+___
 ## References on request
 
 ### Government references
@@ -92,10 +128,8 @@ Creative Director on Nike, Sony, Coca-Cola and Kraft accounts.
 * Jennifer Pahlka, Founder, Code for America 
 * Michael Wilkening, Special Advisor on Innovation and Digital Services in the Office of the Governor, State of California
 
-## Other assets
+___
+## Headshot
 
 * [2470 pixel color headshot](/assets/images/danhon-headshot-2019-color-2470px.jpeg)
 
-## Selected talk slides
-
-* _Computer, Stop: Why Star Trek only goes so far and we need to try harder than science fiction_ at IXDA Interaction 20, [29.9MB PDF](/talks/ixd20/0205_Futures_15_Hon_VF_2.pdf)
