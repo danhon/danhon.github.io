@@ -5,8 +5,7 @@ Dan Hon is an expert on technology and its role in society. Most recently, he ha
 
 Dan is a keynote speaker on government digital services and technology in society. His writing has been published in the MIT Technology Review and Wired Magazine. 
 
-Dan tweets at [@hondanhon](https://twitter.com/@hondanhon/) and can be contacted at [dan@verylittlegravitas.com](mailto:dan@verylittlegravitas.com]). 
-
+Dan tweets at [@hondanhon](https://twitter.com/@hondanhon/) and can be contacted at [dan@verylittlegravitas.com](mailto:dan@verylittlegravitas.com]). He has been writing [Things That Have Caught My Attention](https://newsletter.danhon.com/), a newsletter, since 2014.
 
 ### Short affiliation
 Dan Hon is Principal and founder at Very Little Gravitas, a digital strategy consultancy, and former Editorial Director at Code for America.
