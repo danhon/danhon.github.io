@@ -1,19 +1,24 @@
 # About Dan
-_Last updated May 13, 2021_
+_Last updated March 23, 2022_
 
 Dan Hon is an expert on technology and its role in society. Most recently, he has been doing groundbreaking work transforming government and digital services. 
 
 Dan is a keynote speaker on government digital services and technology in society. His writing has been published in the MIT Technology Review and Wired Magazine. 
 
-Dan tweets at [@hondanhon](https://twitter.com/@hondanhon/) and can be contacted at [dan@verylittlegravitas.com](mailto:dan@verylittlegravitas.com]). He has been writing [Things That Have Caught My Attention](https://newsletter.danhon.com/), a newsletter, since 2014.
+Dan tweets at [@hondanhon](https://twitter.com/@hondanhon/) and can be contacted at [dan@verylittlegravitas.com](mailto:dan@verylittlegravitas.com]). 
+
+He has been writing [Things That Caught My Attention](https://newsletter.danhon.com/), a newsletter, since 2014. 
+
+The ebook [Things That Caught My Attention, Volume 1](https://store.verylittlegravitas.com/l/ThingsVol1) collects the best 45 essays from the first 50 episodes of the newsletter.
 
 ### Short affiliation
-Dan Hon is Principal and founder at Very Little Gravitas, a digital strategy consultancy, and former Editorial Director at Code for America.
+Dan Hon is Principal and founder at Very Little Gravitas, a strategy consultancy, and former Editorial Director at Code for America.
 
 ___
 
 ## Highlights
 * Lead strategy consultant for [Vision 2023](https://vision2023.cdt.ca.gov), California's Statewide Strategic Technology Plan.
+* Co-designer and an instructor for [Digital Fundamentals for Public Impact](https://mccourt.georgetown.edu/digital-fundamentals-for-public-impact/) at the McCourt School of Public Policy.
 * Led the creation of the State of California’s first digital service, the Child Welfare Digital Service, the subject of a Harvard Kennedy School case study.
 * Co-Chair of the Code for America Summit, bringing together civic technologists, public employees and technology companies to make government work in a digital age ([2020](https://www.codeforamerica.org/summit/about), [2019](https://www.youtube.com/playlist?list=PL65XgbSILalUkMOjuufa1RWofJ-dFPK6q), [2018](https://www.youtube.com/playlist?list=PL65XgbSILalU3CPOpBOzBiX-31rzk8oox)).
 * Keynote speaker, published writer on technology, design, government and ethics (MIT Technology Review, Wired, Web Directions).
