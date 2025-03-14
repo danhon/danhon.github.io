@@ -1,5 +1,5 @@
 # About Dan
-_Last updated March 23, 2022_
+_Last updated March 14, 2025_
 
 Dan Hon is an expert on technology and its role in society. Most recently, he has been doing groundbreaking work transforming government and digital services. 
 
@@ -68,6 +68,7 @@ ___
 
 ### Writing
 
+- [From COBOL to chaos: Elon Musk, DOGE, and the Evil Housekeeper Problem](https://www.technologyreview.com/2025/02/07/1111283/elon-musk-doge-and-the-evil-housekeeper-problem-government-technology/); MIT Technology Review, February 7 2025. Topics: _technology_, _government_. 
 - [Wristwatch heart monitors might save your life—and change medicine, too](https://www.technologyreview.com/s/612929/wristwatch-heart-monitors-might-save-your-lifeand-change-medicine-too/); in print as Your Heart On Your Sleeve. MIT Technology Review, March/April 2019. Topics: _emerging technology_, _healthcare_, _ethics_, _quantified self_.
 - [No one's coming, it's up to us](https://medium.com/@hondanhon/no-ones-coming-it-s-up-to-us-de8d9442d0d), January 2017, based on O'Reilly Foo Camp talk. Topics: _technology and society_.
 - [Google Can Buy Nest, But It Can’t Buy Our Trust](https://www.wired.com/2014/01/google-didnt-just-acquire-nest-annexed-whole-new-territory/), Wired.com, January 2014. Topics: ethics, technology.
