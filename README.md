@@ -5,14 +5,20 @@ Dan Hon is an expert on technology and its role in society. Most recently, he ha
 
 Dan is a keynote speaker on government digital services and technology in society. His writing has been published in the MIT Technology Review and Wired Magazine. 
 
-Dan is on Twitter ([@hondanhon](https://twitter.com/@hondanhon/)) and Mastodon (<a rel="me" href="https://dan.mastohon.com/@danhon">danhon@dan.mastohon.com</a>), and can be contacted at [dan@verylittlegravitas.com](mailto:dan@verylittlegravitas.com]). 
-
 He has been writing [Things That Caught My Attention](https://newsletter.danhon.com/), a newsletter, since 2014. 
 
 The ebook [Things That Caught My Attention, Volume 1](https://store.verylittlegravitas.com/l/ThingsVol1) collects the best 45 essays from the first 50 episodes of the newsletter.
 
 ### Short affiliation
 Dan Hon is Principal and founder at Very Little Gravitas, a strategy consultancy, and former Editorial Director at Code for America.
+
+### Contact
+
+Dan is on Bluesky ([@danhon.com](https://bsky.app/profile/danhon.com)) and Mastodon (<a rel="me" href="https://dan.mastohon.com/@danhon">danhon@dan.mastohon.com</a>), and can be contacted by email at [dan@verylittlegravitas.com](mailto:dan@verylittlegravitas.com]) and on Signal at [@danhon.1701](https://signal.me/#eu/slutAY-W6uEBd-55JU-tzuzJcQHhh2abIgVKEgO1zcB58DMLb11Da6p0AxqgyCVe). 
+
+His iMessage public verification code is:
+
+<code>APKTIDTQJvJWr9S4iM7afexfWIpTeQFH2Ftyp5nEfzZAqhbmt84w</code>.
 
 ___
 
