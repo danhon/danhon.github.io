@@ -33,7 +33,18 @@ ___
 * BA Law (Cambridge University), MSc. Software Engineering (University of Liverpool).
 
 ___
+
 ## Selected experience
+
+### Bringing a human-centered approach to government procurement technology
+
+Co-author of the Open Contracting Partnership's brief [explaining why procurement and procurement technology matters](https://www.open-contracting.org/topics/human-centered-procurement-tech/), the OCP's vision for human-centered procurement technology, and a strategy for change.
+
+### Strategy Consultant, Open UI Initiative, National Association of State Workforce Agencies
+Responsible for supporting the development of vision, strategy, roadmap and execution of the standards-based Open UI Initiative, a state-led, DOL funded effort to disrupt the dysfunctional market in unemployment insurance technology in the United States.
+
+### Digital Service Strategy, State of Delaware Government Information Center 
+Developed digital service strategy with GIC leadership and team, through discovery, definition, development, and delivery phases, including coaching
 
 ### Vision 2023: California's Statewide Technology Strategic Plan
 Lead strategy consultant for the California Department of Technology's [Vision 2023](https://vision2023.cdt.ca.gov), the state's three year technology strategic plan. 
